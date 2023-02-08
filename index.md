@@ -8,5 +8,6 @@ title: MEnDS
 
 ## Mentoring in Environmental Data Science
 
+![MENDS logo](img/MENDS.png)
 
 Stay tuned for mentor/mentee opportunities in Environmental Data Science!
