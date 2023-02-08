@@ -22,7 +22,7 @@ title: MEnDS
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Mentoring in Environmental Data Science is a mentorship network started at the Environmental Data Science Summit.
-#domain: open-climate-data-science.github.io
+#domain: mends.github.io
 #url: "https://mends.github.io" # the base hostname & protocol 
 #baseurl: "/mends.github.io/" # the subpath of your site, e.g. /blog for your site, e.g. http://example.com
 #twitter_username: ""
@@ -39,12 +39,12 @@ plugins:
 
 #Pages in the top menu, in order
 header_pages:
- - about.md
- - schedule.md
- - plenaries.md
- - tutorials.md
- - resources.md
- - CODE_OF_CONDUCT.md
+# - about.md
+# - schedule.md
+# - plenaries.md
+# - tutorials.md
+# - resources.md
+# - CODE_OF_CONDUCT.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
