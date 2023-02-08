@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Workshop News
+title: MEnDS
 ---
 
 ## Mentoring in Environmental Data Science
