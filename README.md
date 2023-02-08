@@ -1,2 +1,2 @@
 # mends.github.io
-Github website for Mentoring ENviroronmental Data Science.
+Github website for Mentoring ENvironmental Data Science.
