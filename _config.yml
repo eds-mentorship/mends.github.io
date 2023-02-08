@@ -39,12 +39,12 @@ plugins:
 
 #Pages in the top menu, in order
 header_pages:
-# - about.md
+- about.md
 # - schedule.md
 # - plenaries.md
 # - tutorials.md
 # - resources.md
-# - CODE_OF_CONDUCT.md
+- CODE_OF_CONDUCT.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
